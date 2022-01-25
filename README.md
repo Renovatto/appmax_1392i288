@@ -7,7 +7,7 @@ Este é um projeto simples sem aplicação de métodos de validação, bem como 
 Para executar, crie um novo banco de dados com o mesmo nome do projeto e execute
 as migrations.
 
-## Técnologias e verões utilizadas
+## Técnologias e versões utilizadas
 
 PHP 7.3.25
 Laravel 7.30.6
