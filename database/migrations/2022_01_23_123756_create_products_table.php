@@ -16,8 +16,7 @@ class CreateProductsTable extends Migration
         Schema::create('products', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->string('sky');
-            $table->integer('qtd_ini');
+            $table->string('sku');
             $table->timestamps();
         });
     }
